@@ -1,4 +1,5 @@
-var p1=0,p2=0;
+var p1=0,p2=0,extra=0;
+var count=0;
 function startGame(){
 	for(var i=1;i<=9;i++)
 	{
